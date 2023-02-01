@@ -28,4 +28,4 @@ The game uses free and open-source assets, including graphics and sound effects.
 Contributions are welcome! If you would like to contribute, please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the MIT License.
